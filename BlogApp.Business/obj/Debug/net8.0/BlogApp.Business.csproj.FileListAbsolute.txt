@@ -1,0 +1,34 @@
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.deps.json
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp..4ECBC8BD.Up2Date
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\refint\BlogApp.Business.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.Business\obj\Debug\net8.0\ref\BlogApp.Business.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.deps.json
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.Business.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.csproj.AssemblyReference.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.AssemblyInfoInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.AssemblyInfo.cs
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp..4ECBC8BD.Up2Date
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\refint\BlogApp.Business.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\BlogApp.Business.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.Business\obj\Debug\net8.0\ref\BlogApp.Business.dll

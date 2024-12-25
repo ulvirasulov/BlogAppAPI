@@ -1,0 +1,34 @@
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\ulvir\OneDrive\Desktop\FirstAPI\BlogApp.DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
